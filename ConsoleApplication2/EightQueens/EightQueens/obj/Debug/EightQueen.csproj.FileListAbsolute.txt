@@ -11,3 +11,9 @@ D:\Source\ConsoleApplication2\EightQueens\EightQueens\obj\Debug\EightQueen.cspro
 D:\Source\ConsoleApplication2\EightQueens\EightQueens\obj\Debug\EightQueen.csproj.CoreCompileInputs.cache
 D:\Source\ConsoleApplication2\EightQueens\EightQueens\obj\Debug\EightQueens.exe
 D:\Source\ConsoleApplication2\EightQueens\EightQueens\obj\Debug\EightQueens.pdb
+D:\Source\EightQueens\ConsoleApplication2\EightQueens\EightQueens\obj\Debug\EightQueen.csproj.CoreCompileInputs.cache
+D:\Source\EightQueens\ConsoleApplication2\EightQueens\EightQueens\obj\Debug\EightQueens.exe
+D:\Source\EightQueens\ConsoleApplication2\EightQueens\EightQueens\obj\Debug\EightQueens.pdb
+D:\Source\EightQueens\ConsoleApplication2\EightQueens\EightQueens\bin\Debug\EightQueens.exe.config
+D:\Source\EightQueens\ConsoleApplication2\EightQueens\EightQueens\bin\Debug\EightQueens.exe
+D:\Source\EightQueens\ConsoleApplication2\EightQueens\EightQueens\bin\Debug\EightQueens.pdb
