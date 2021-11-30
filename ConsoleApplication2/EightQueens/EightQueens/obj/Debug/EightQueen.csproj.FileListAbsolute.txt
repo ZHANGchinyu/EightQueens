@@ -1,0 +1,13 @@
+D:\source\CH_DIFF_USE\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\source\CH_DIFF_USE\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\source\CH_DIFF_USE\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\source\CH_DIFF_USE\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\source\CH_DIFF_USE\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\source\CH_DIFF_USE\ConsoleApplication2\ConsoleApplication2\obj\Debug\EightQueen.csprojResolveAssemblyReference.cache
+D:\Source\ConsoleApplication2\EightQueens\EightQueens\bin\Debug\EightQueens.exe.config
+D:\Source\ConsoleApplication2\EightQueens\EightQueens\bin\Debug\EightQueens.exe
+D:\Source\ConsoleApplication2\EightQueens\EightQueens\bin\Debug\EightQueens.pdb
+D:\Source\ConsoleApplication2\EightQueens\EightQueens\obj\Debug\EightQueen.csprojResolveAssemblyReference.cache
+D:\Source\ConsoleApplication2\EightQueens\EightQueens\obj\Debug\EightQueen.csproj.CoreCompileInputs.cache
+D:\Source\ConsoleApplication2\EightQueens\EightQueens\obj\Debug\EightQueens.exe
+D:\Source\ConsoleApplication2\EightQueens\EightQueens\obj\Debug\EightQueens.pdb
